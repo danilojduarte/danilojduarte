@@ -1,21 +1,54 @@
-# 💫 About Me:
-Profissional participativo, proativo e dedicado em tudo que faz, estou sempre em busca de novos<br>conhecimentos. Tenho paixão por tudo que faço e sempre coloco muita dedicação, procuro sempre<br>atingir objetivos e almejar novas metas. Gosto muito de trabalhar com rotinas e não tenho problemas<br>com normas ou processos, gosto de segui-los, pois acredito que para conseguir superar as<br>diversidades e obstáculos, temos que ser flexíveis, porém nunca deixar de lado aquilo que devemos<br>ter foco em fazer
+# Olá, eu sou o Danilo! 👋
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@daniloduarte#3431) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/danilo.duarte.7505) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/danilojduarte/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-jos%C3%A9-duarte-0b38a61a9/) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=danilojduarte&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=danilojduarte&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilojduarte&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=danilojduarte&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danilojduarte&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="Status do GitHub" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=danilojduarte&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Sobre Mim
+Sou um profissional apaixonado por transformar desafios em soluções digitais eficientes. Com foco em **Desenvolvimento Web e UI Design**, busco sempre o equilíbrio entre um código limpo e uma experiência de usuário excepcional. 
+
+* **Foco Atual:** Especialização em automação com IA e interfaces modernas (Clean Tech).
+* **Diferencial:** Grande capacidade de adaptação a processos e foco em resultados mensuráveis.
+* **Filosofia:** Acredito que a flexibilidade aliada ao foco é a chave para superar obstáculos e atingir metas audaciosas.
+
+---
+
+### 🛠️ Tech Stack
+
+**Front-end & Design**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**Back-end & Database**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+
+**Tools & Skills**
+![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+
+---
+
+### 📊 Desempenho no GitHub
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danilojduarte&theme=dracula" alt="Streak Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilojduarte&theme=dracula&layout=compact" alt="Linguagens mais usadas" />
+</div>
+
+### 🏆 Conquistas
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=danilojduarte&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Troféus" />
+</div>
+
+---
+
+### 🌐 Vamos nos conectar?
+<div align="left">
+  <a href="https://www.linkedin.com/in/danilo-jos%C3%A9-duarte-0b38a61a9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/danilojduarte/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://discord.gg/@daniloduarte#3431" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</div>
+
+---
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=danilojduarte&icon=0&color=0" alt="Visit Count" />
+</div>
