@@ -1,54 +1,95 @@
-# Olá, eu sou o Danilo! 👋
+# 👨‍💻 Danilo Duarte
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danilojduarte&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="Status do GitHub" />
-</div>
+🎯 Desenvolvedor Front-End em evolução, com foco em criação de interfaces modernas, responsivas e voltadas para negócios locais.
 
----
-
-### 🚀 Sobre Mim
-Sou um profissional apaixonado por transformar desafios em soluções digitais eficientes. Com foco em **Desenvolvimento Web e UI Design**, busco sempre o equilíbrio entre um código limpo e uma experiência de usuário excepcional. 
-
-* **Foco Atual:** Especialização em automação com IA e interfaces modernas (Clean Tech).
-* **Diferencial:** Grande capacidade de adaptação a processos e foco em resultados mensuráveis.
-* **Filosofia:** Acredito que a flexibilidade aliada ao foco é a chave para superar obstáculos e atingir metas audaciosas.
+💡 Atualmente desenvolvendo projetos próprios com foco em:
+- Landing Pages profissionais
+- Aplicações React
+- Soluções digitais para comércios locais
+- Integrações e automações (n8n, APIs)
 
 ---
 
-### 🛠️ Tech Stack
+## 🧠 Sobre mim
 
-**Front-end & Design**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+Sou formado em Redes de Computadores e venho migrando para o desenvolvimento Front-End, onde encontrei minha verdadeira paixão.
 
-**Back-end & Database**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+Tenho experiência prática com:
+- Criação de interfaces modernas
+- Estruturação de projetos do zero
+- Organização de código e boas práticas
+- Desenvolvimento de soluções reais (não apenas estudos)
 
-**Tools & Skills**
-![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-
----
-
-### 📊 Desempenho no GitHub
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danilojduarte&theme=dracula" alt="Streak Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilojduarte&theme=dracula&layout=compact" alt="Linguagens mais usadas" />
-</div>
-
-### 🏆 Conquistas
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danilojduarte&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Troféus" />
-</div>
+💪 Perfil:
+- Proativo
+- Focado em evolução contínua
+- Facilidade em seguir processos
+- Mentalidade de resolução de problemas
 
 ---
 
-### 🌐 Vamos nos conectar?
-<div align="left">
-  <a href="https://www.linkedin.com/in/danilo-jos%C3%A9-duarte-0b38a61a9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/danilojduarte/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://discord.gg/@daniloduarte#3431" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</div>
+## 🛠️ Tech Stack
+
+### 💻 Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙️ Back-End / Outros
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+
+### 🎨 Design & Ferramentas
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=danilojduarte&icon=0&color=0" alt="Visit Count" />
-</div>
+
+## 📌 Projetos em Destaque
+
+🔹 **Meu Bairro Online**
+> Plataforma para conectar clientes a comércios locais  
+✔️ Busca por produtos  
+✔️ Filtro por categorias  
+✔️ Interface responsiva  
+✔️ Planejamento de integração com mapas e avaliações  
+
+🔹 **Cleidson Delivery (Landing Page)**
+> Página moderna para serviço de delivery  
+✔️ Design focado em conversão  
+✔️ Animações e UX  
+✔️ Estrutura profissional  
+
+🔹 **App de busca de comércios (React Native)**
+> Aplicativo para localizar estabelecimentos por produto  
+✔️ Sistema de busca inteligente  
+✔️ Favoritos  
+✔️ Página individual por loja  
+
+---
+
+## 📊 Estatísticas
+
+![](https://github-readme-stats.vercel.app/api?username=danilojduarte&theme=dracula&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=danilojduarte&theme=dracula&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilojduarte&layout=compact&theme=dracula)
+
+---
+
+## 🌐 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-jos%C3%A9-duarte-0b38a61a9/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danilojduarte/)
+
+---
+
+## 🚀 Objetivo
+
+Atuar como Desenvolvedor Front-End, criando soluções modernas e funcionais que gerem valor real para usuários e negócios.
+
+---
+
+⭐ Sempre aprendendo, sempre evoluindo.
